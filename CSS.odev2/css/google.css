@@ -1,0 +1,14 @@
+/* google yazısını ortalamak için bir sınıf kullanacağım */
+.orta {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+ }
+
+ /*yazıları ortalamak için ise yeni bir class açacağım ,yazı fontunu vs de burdan ayarlayabilirim ilerde*/
+
+ .p-orta {
+    text-align: center;
+    margin-top: 0;
+ }
